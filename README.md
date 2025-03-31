@@ -1,6 +1,3 @@
-# Fashion-Classifier
-THIS MODEL CLASSIFIES THE GIVEN CLOTH IMAGE INTO DIFFERENT CATEGORIES
-
 # AI Fashion Insights Generator
 
 ## Overview
